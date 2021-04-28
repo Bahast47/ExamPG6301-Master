@@ -1,0 +1,16 @@
+{
+  "name": "exampg6301",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "@testing-library/react": "^11.2.6",
+    "jest-dom": "^4.0.0",
+    "react-test-renderer": "^17.0.2"
+  }
+}
